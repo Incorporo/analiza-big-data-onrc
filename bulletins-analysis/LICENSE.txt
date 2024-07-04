@@ -1,0 +1,37 @@
+ADDENDUM - LICENTA BAZA DE DATE ANALIZA
+
+Prezentul document stabilește cadrul de licențiere a informațiilor și
+datelor oferite de Registrul Comerțului prin intermediul Buletinului Electronic.
+
+1. Informațiile primare publicate în Buletinul Electronic al Registrului Comerțului,
+cum ar fi încheierile registratorului, hotărârile judecătorești, extrasele și actele
+înregistrate în registrul comerțului, sunt considerate informații oficiale de interes
+public și nu sunt protejate de dreptul de autor, putând fi utilizate și reproduse liber,
+cu respectarea legislației în vigoare.
+
+2. Prelucrările, analizele, reprezentările grafice, bazele de date și orice alte opere
+derivate realizate prin efort intelectual propriu pornind de la informațiile primare
+din Buletinul Electronic al Registrului Comerțului sunt protejate de dreptul de autor
+și de drepturile sui-generis ale autorilor, în conformitate cu Legea nr. 8/1996 privind
+dreptul de autor și drepturile conexe.
+
+3. Prin prezenta, se acordă utilizatorilor o licență de tip GNU Affero General Public
+License (AGPL) pentru utilizarea, modificarea și redistribuirea informațiilor prelucrate
+și a operelor derivate, cu condiția ca aceștia să păstreze aceleași drepturi și obligații
+prevăzute de licența AGPL și pentru versiunile derivate ulterioare.
+
+4. Licența AGPL permite utilizarea liberă a informațiilor prelucrate în orice scop, inclusiv
+în scopuri comerciale, cu obligația de a pune la dispoziția publicului codul sursă al
+versiunilor derivate și de a menționa sursa originală a informațiilor.
+
+5. Autorii prelucrărilor și operelor derivate realizate pornind de la informațiile publice din
+Buletinul Electronic al Registrului Comerțului nu revendică niciun drept asupra informațiilor
+primare oficiale și recunosc caracterul public al acestora.
+
+Prin utilizarea informațiilor prelucrate și a operelor derivate puse la dispoziție sub licența AGPL,
+utilizatorul se obligă să respecte condițiile acestei licențe. Pentru mai multe detalii privind
+termenii și condițiile licenței AGPL, vă rugăm să consultați textul integral al licenței disponibil in
+folder-ul principal.
+
+Această licență se aplică tuturor informațiilor prelucrate și operelor derivate puse la dispoziție de
+autorii prelucrărilor, începând cu data publicării prezentului memoriu.
